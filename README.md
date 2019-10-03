@@ -1,2 +1,7 @@
 # hello-world
-This is a test repository created to complete the actions mentioned in the GitHub guide article.
+
+An article told me to write something about myself here.
+
+But I will not. I'm a rebel.
+
+I failed. Trice.
